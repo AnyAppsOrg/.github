@@ -1,2 +1,0 @@
-# .github
- AnyApps GitHub repository 
